@@ -1,4 +1,4 @@
-package training.busreservation.kavya;
+package src.kavya;
 
 import java.util.ArrayList;
 import java.util.List;

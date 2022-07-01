@@ -1,4 +1,4 @@
-package training.busreservation.kavya;
+package src.kavya;
 
 public class User
 {
